@@ -19,5 +19,5 @@ I'm currently using:
 Run with:
 
 ```
-sudo python3 fancyled-palettes.py
+sudo python3 palette_demo.py
 ```

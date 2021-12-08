@@ -12,7 +12,7 @@ import threading
 import adafruit_fancyled.fastled_helpers as helper
 from rpi_ws281x import Color, PixelStrip
 
-from fibonacci256 import radii
+from fibonacci256_maps import radii
 from palettes import palettes, palette_count
 
 # LED strip configuration:
