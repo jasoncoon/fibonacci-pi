@@ -6,9 +6,9 @@
 
 I'm currently using:
 
-- [Fibonacci256](https://www.evilgeniuslabs.org/fibonacci256)
-- [Raspberry Pi Compute Module 4](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4102008) (8 GB eMMC, Wireless, 2 GB RAM)
-- [Piunora](https://www.crowdsupply.com/diodes-delight/piunora) carrier board.
+- ![Fibonacci256](images/f256.jpg "Fibonacci256") [Fibonacci256](https://www.evilgeniuslabs.org/fibonacci256)
+- ![CM4](images/cm4.jpg "CM4") [Raspberry Pi Compute Module 4](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4102008) (8 GB eMMC, Wireless, 2 GB RAM)
+- ![Piunora](images/piunora.jpg "Piunora") [Piunora](https://www.crowdsupply.com/diodes-delight/piunora) carrier board.
 
 ## Software
 
