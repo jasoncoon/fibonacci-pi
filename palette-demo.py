@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Fibonacci256 FancyLED Palettes for CircuitPython
+# Fibonacci256 FancyLED Palettes Demo
 # by Jason Coon, Evil Genius Labs: evilgeniuslabs.org
 #
 # Based on the Piunora examples: https://github.com/Diodes-Delight/piunora-raspberrypi-os-image/blob/main/scripts/files/piunora-blinka-examples
